@@ -137,16 +137,16 @@
 // // console.log(array_2_5_m([1,4,3,5], 4));
 
 // function array_2_7_m(arr1, arr2) {
-//     let counterDups = 0;
+//     let counterDupes = 0;
 //     for (let index = 0; index < arr1.length; index++) {
 //         const numToCheck = arr1[index];
 //         for (let i = 0; i < arr2.length; i++) {
 //             if (numToCheck === arr2[i]) {
-//                 counterDups++
+//                 counterDupes++
 //             }
 //         }
 //     }
-//     return counterDups;
+//     return counterDupes;
 // }
 // // console.log(array_2_7_m([1,2,3,4], [8,1,5,6]));
 
